@@ -1,0 +1,19 @@
+/*This file contains css required for website*/
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9{
+	padding-left: 0;
+	padding-right: 0
+}
+
+header{
+	position: absolute;
+    width: 100%;
+    z-index: 122;
+    top: 0;
+}
+
+body{
+	background-color: #7D7B78;
+}
+.container {
+  margin-top: 81px;
+}
